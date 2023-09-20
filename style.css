@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Gruppo&display=swap');
+
+
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: sans-serif;
+    }
+
+
+
+p{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+ 
+
+h1 {
+    font-family: 'Gruppo', sans-serif;
+    color: #fff;
+    font-size: 100px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+
+video { /*https://www.w3schools.com/tags/tag_video.asp on video tags*/
+    width: 100%; 
+    max-width: 800px; 
+    margin: 0 auto; 
+    display: block; 
+}
+
+img {
+    width: 100vw; 
+    height: auto; 
+    display: block; 
+}
